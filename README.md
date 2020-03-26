@@ -6,4 +6,4 @@ Note: Traffic is NOT encrypted and is in CLEARTEXT. This is NOT SECURE and shoul
 Created by Ronald Bartwitz
 
 To do:
-Add support for Encryption [ ]
+- Add support for Encryption [ ]
